@@ -3,6 +3,8 @@
 
 ![https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png](https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png)
 
+> Download: [https://github.com/loudKode/Unofficial-VirusTotal-Client/releases](https://github.com/loudKode/Unofficial-VirusTotal-Client/releases)
+
 # antivirus scanners supported:
 * AegisLab (AegisLab)
 * Agnitum (Agnitum)
