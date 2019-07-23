@@ -1,5 +1,16 @@
 # Unofficial-VirusTotal-Client
 > Analyze suspicious files and URLs to detect types of malware
+* asynchronous
+* Scan files
+* Scan URLs
+* Save Reports locally
+* Compress files before upload to upload files larger than 200M
+* Upload files by drag n drop
+* Scan folders
+* Upload files upto 200mb in size
+* Quota monitor
+* Displaying scan reports
+* Scans history
 
 ![https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png](https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png)
 
