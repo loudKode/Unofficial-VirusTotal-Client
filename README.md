@@ -12,7 +12,7 @@
 * Displaying scan reports
 * Scans history
 
-![https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png](https://i.postimg.cc/J0hH7JSX/Virus-Total-Client-BRl-Nj-NXco-B.png)
+![https://i.postimg.cc/hjpmFCT9/Virus-Total-Client-3-Fxcwp-E9-U9.png](https://i.postimg.cc/hjpmFCT9/Virus-Total-Client-3-Fxcwp-E9-U9.png)
 
 > Download: [https://github.com/loudKode/Unofficial-VirusTotal-Client/releases](https://github.com/loudKode/Unofficial-VirusTotal-Client/releases)
 
