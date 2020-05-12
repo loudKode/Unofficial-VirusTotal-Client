@@ -1,5 +1,13 @@
-# Unofficial-VirusTotal-Client
-> Analyze suspicious files and URLs to detect types of malware
+
+**Unofficial VirusTotal Client**
+> Download: [https://github.com/loudKode/Unofficial-VirusTotal-Client/releases](https://github.com/loudKode/Unofficial-VirusTotal-Client/releases)
+
+Analyze suspicious files and URLs to detect types of malware
+is an application designed to offer you an alternative solution, by allowing you to quickly scan only the files that interest you on VirusTotal, which is an online service comprised of a multitude of antivirus scanners. The procedure is as simple as it can be, since all you need to do is select the desired document from your computer and upload it to the aforementioned website.
+
+The utility then displays the detection results, taking into consideration every antivirus engine provided by the service and notifying you about the name of the found threats. In addition, you can also scan URLs, in order to check a web page for possible malware before you open it in your web browser.
+
+# Features
 * asynchronous
 * Scan files
 * Scan URLs
@@ -12,9 +20,6 @@
 * Displaying scan reports
 * Scans history
 
-![https://i.postimg.cc/hjpmFCT9/Virus-Total-Client-3-Fxcwp-E9-U9.png](https://i.postimg.cc/hjpmFCT9/Virus-Total-Client-3-Fxcwp-E9-U9.png)
-
-> Download: [https://github.com/loudKode/Unofficial-VirusTotal-Client/releases](https://github.com/loudKode/Unofficial-VirusTotal-Client/releases)
 
 # antivirus scanners supported:
 * AegisLab (AegisLab)
@@ -161,4 +166,7 @@
 * Tencent (HABO)
 * Yomi Hunter (Yoroi)
 
+![main-sc](https://i.postimg.cc/gJ9m9Snq/Virus-Total-Client-i-IHS3-MAn-Kq.png)
+
+![tasks](https://i.postimg.cc/qRdVDN51/Virus-Total-Client-kc9-JMa5-G2a.png)
 
