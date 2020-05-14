@@ -166,7 +166,7 @@ The utility then displays the detection results, taking into consideration every
 * Tencent (HABO)
 * Yomi Hunter (Yoroi)
 
-![main-sc](https://i.postimg.cc/gJ9m9Snq/Virus-Total-Client-i-IHS3-MAn-Kq.png)
+![main-sc](https://i.postimg.cc/VN2RkL7Q/Virus-Total-Client-mme-XTsun-Wd.png)
 
 ![tasks](https://i.postimg.cc/qRdVDN51/Virus-Total-Client-kc9-JMa5-G2a.png)
 
